@@ -4,7 +4,7 @@ A responsive food website showcasing various dishes, recipes, and culinary conte
 
 ## Project Structure
 
-responsive-webpage-/
+responsive-webpage/
 ├── index.html
 ├── styles.css
 ├── script.js
